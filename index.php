@@ -36,7 +36,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-	<title>калькулятор</title>
+	<title>калькулятор обычный</title>
  </head>
 <body >
  <center><font color="red" size="5">калькулятор</font></center>
