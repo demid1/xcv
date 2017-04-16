@@ -58,5 +58,9 @@
  <td colspan="2"><center><input type="submit" name="do" value="вычислить"></center></td>
  <td colspan="2"><center><input type="reset" name="c" value="сбросить"></center></td>
  </table></center>
+ <br><br><br>
+ <hr>
+ <i><h2>все права защищены</h2></i>
+ <hr>
 </body>
 </html>
